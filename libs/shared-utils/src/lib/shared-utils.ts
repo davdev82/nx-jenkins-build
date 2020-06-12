@@ -1,3 +1,3 @@
-export const SHARED_CONST = 'Some Shared Constantine';
+export const SHARED_CONST = 'Some Shared Constant';
 
 // Major change
